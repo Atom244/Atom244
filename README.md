@@ -20,7 +20,7 @@
   <img src="https://github.com/Atom244/icons-for-projects/blob/main/qt1.png" title="Qt" alt="Qt" width="70" height="70" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="48" height="48" />&nbsp;
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atom244&theme=dracula&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atom244&theme=synthwave&hide=stars,issues)
 </div>
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Atom244)   
