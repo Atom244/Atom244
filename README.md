@@ -25,7 +25,7 @@
 [![codewars](https://www.codewars.com/users/Atom244/badges/large)](https://www.codewars.com/users/Atom244)
 
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#009B00&lines=Beginner)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=16BD30&center=true&width=435&lines=Beginner)](https://git.io/typing-svg)
 
 </div>
 
