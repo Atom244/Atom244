@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="48" height="48" />&nbsp;
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atom244&theme=dark&hide=stars,issues&show_icons=true)
-(https://www.codewars.com/users/username/badges/small)
+https://www.codewars.com/users/Atom244/badges/large
 </div>
 
  
