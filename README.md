@@ -23,7 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atom244&theme=dark&hide=stars,issues&show_icons=true)
 
 [![codewars](https://www.codewars.com/users/Atom244/badges/large)](https://www.codewars.com/users/Atom244)
-<b>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginner)
 </div>
 
