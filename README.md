@@ -20,5 +20,6 @@
   <img src="https://github.com/Atom244/icons-for-projects/blob/main/qt1.png" title="Qt" alt="Qt" width="70" height="70" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="48" height="48" />&nbsp;
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atom244)](https://github.com/anuraghazra/github-readme-stats)
 
 
