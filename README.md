@@ -5,7 +5,7 @@
   <h1>Hi👋</h1> 
 </div>  
 
-## 📣About me (you can visit my [WEBSITE!](https://atom-portfolio-vert.vercel.app/)):  
+## 📣About me:  
 - I'm interested in GUI and web-development 💻
 - I'm currently learning frameworks for web 🌍
 - And I study everything that seems interesting to me 📚
